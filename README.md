@@ -12,7 +12,7 @@ Logo depois eu fui presenteado com um curso de **HTML** em ***bloco de notas***,
 
 Depois disso fui fazer um curso técnico aonde tive contato com programação e adorei, a linguagem era **VB6** quem lembra? 👴🏿 ***Eu curti demais programação*** 👍🏿👍🏿👍🏿
 
-De lá pra cá veio Faculdade, cursos, treinamentos meetups, vários frameworks, masterPages, Ajax,  LinqToSQL, LinqToEntites, **.Net Core**, **SOLID**  e muuuuita veio mudando junto com o avanço do mercado.
+De lá pra cá veio Faculdade, cursos, treinamentos meetups, vários frameworks, masterPages, Ajax,  LinqToSQL, LinqToEntites, **.Net Core**, **SOLID**  e muuuuita coisa veio mudando junto com o avanço do mercado.
 <hr />
 Desde então sigo trabalhando como programador, as principais linguagens são: 
 <br>
