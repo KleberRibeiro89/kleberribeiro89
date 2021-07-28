@@ -1,4 +1,4 @@
--<img src="https://github.com/KleberRibeiro89/kleberribeiro89/blob/main/Kleber.jpg?raw=true" />
+<img src="https://github.com/KleberRibeiro89/kleberribeiro89/blob/main/Kleber.jpg?raw=true" />
 <h1>Kleber Ribeiro</h1>
 
 Salve galera, Kleber Ribeiro aqui, muito prazer.  👊🏿
@@ -14,6 +14,11 @@ Depois disso fui fazer um curso técnico aonde tive contato com programação e 
 
 De lá pra cá veio Faculdade, cursos, treinamentos meetups, vários frameworks, masterPages, Ajax,  LinqToSQL, LinqToEntites, **.Net Core**, **SOLID**  e muuuuita veio mudando junto com o avanço do mercado.
 
-Desde então sigo trabalhando como programador, as principais linguagens são: 
- <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></code>  <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>	 <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>	 <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></code>	 <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>	
+Desde então sigo trabalhando como programador, as principais linguagens são: <br>
+ <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" /></code>  
+ <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/></code>	 
+ <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>  
+ <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>	 
+ <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></code>	 
+ <code>	<img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>	
 
