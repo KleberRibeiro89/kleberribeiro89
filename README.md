@@ -13,9 +13,9 @@ Logo depois eu fui presenteado com um curso de **HTML** em ***bloco de notas***,
 Depois disso fui fazer um curso técnico aonde tive contato com programação e adorei, a linguagem era **VB6** quem lembra? 👴🏿 ***Eu curti demais programação*** 👍🏿👍🏿👍🏿
 
 De lá pra cá veio Faculdade, cursos, treinamentos meetups, vários frameworks, masterPages, Ajax,  LinqToSQL, LinqToEntites, **.Net Core**, **SOLID**  e muuuuita veio mudando junto com o avanço do mercado.
-
-Desde então sigo trabalhando como programador, as principais linguagens são: <br>
 <hr />
+Desde então sigo trabalhando como programador, as principais linguagens são: 
+<br>
 <code><img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
