@@ -1,6 +1,9 @@
 <!--<img src="https://github.com/KleberRibeiro89/kleberribeiro89/blob/main/Kleber.jpg?raw=true" />-->
 
 <h1>Kleber Ribeiro</h1>
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/kleber-ribeiro-00667b7//)
+
 Salve galera, Kleber Ribeiro aqui, muito prazer.  👊🏿
 Estou na área de TI profissionalmente a exatamente 11 anos
 
