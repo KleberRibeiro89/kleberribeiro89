@@ -37,4 +37,4 @@ Desde então sigo trabalhando como programador, as principais linguagens são:
   </a>
 </div>
 
-<!--![](https://komarev.com/ghpvc/?username=kleberribeiro89&color=006bed)-->
+![](https://komarev.com/ghpvc/?username=kleberribeiro89&color=006bed)
